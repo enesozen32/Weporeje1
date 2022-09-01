@@ -1,2 +1,2 @@
 # Weporeje1
-İlk Wep sayfam.
+İlk Wep sayfam
